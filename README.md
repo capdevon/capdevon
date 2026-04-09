@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I'm Software Engineer sharing about my journey and learnings in tech.
+- 🔭 Software engineer with an interest in game development, system design, and performance optimization.
+- I enjoy solving complex problems and building efficient, maintainable codebases.
+
 <!--
 **capdevon/capdevon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![capdevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=capdevon)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![capdevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=capdevon)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 ## 💻Tech Stack
